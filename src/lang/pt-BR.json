@@ -220,6 +220,10 @@
 				"scaleToGridSize": {
 					"name": "Dimensionar Estimativas com o Tamanho da Grade",
 					"hint": "Dimensiona as estimativas com o tamanho da grade, assumindo 100px como o padrão."
+				},
+				"scaleToTokenSize": {
+					"name": "Escalar com Tamanho do Token",
+					"hint": "Escala o tamanho das estimativas baseado na largura do token."
 				}
 			},
 			"combatOnly": {
