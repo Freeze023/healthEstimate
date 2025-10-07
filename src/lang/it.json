@@ -218,6 +218,10 @@
 				"scaleToZoom": {
 					"name": "Ridimensiona stime in base a zoom",
 					"hint": "Ridimensiona la stima in base alla distanza dello zoom."
+				},
+				"scaleToTokenSize": {
+					"name": "Adatta a Dimensione Token",
+					"hint": "Adatta le stime in base alla larghezza del token."
 				}
 			},
 			"sample": "Esempio"
