@@ -81,14 +81,3 @@
 		overflow: hidden auto;
 	}
 }
-
-#healthEstimate {
-	display: grid;
-	font-size: var(--healthEstimate-text-size);
-	grid-template-columns: 10em;
-	grid-auto-rows: auto;
-	align-content: var(--healthEstimate-alignment);
-	justify-content: unsafe center;
-	margin-top: var(--healthEstimate-margin);
-	width: var(--healthEstimate-width) !important;
-}
